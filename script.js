@@ -262,7 +262,7 @@ function UbahWarnaReset() {
   tabel[8].innerHTML = "0";
   tabel[9].innerHTML = "0";
   tabel[10].innerHTML = "0";
-  tabel[11].innerHTML = "0";
+  tabel[11].innerHTML = "";
 
   OP[0].setAttribute('style', 'background-color: hitam'); // Replace with your actual styles
   OP[1].setAttribute('style', 'background-color: hitam'); // Replace with your actual styles
